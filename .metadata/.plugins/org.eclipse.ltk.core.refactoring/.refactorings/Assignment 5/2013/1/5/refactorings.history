@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;entries2&apos; from expression &apos;entries&apos;&#x0A;- Original project: &apos;Assignment 5&apos;&#x0A;- Variable name: &apos;entries2&apos;&#x0A;- Destination method: &apos;MagicSquares.testMagicCols()&apos;&#x0A;- Variable expression: &apos;entries&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;entries2&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;{MagicSquares.java" name="entries2" replace="true" selection="2028 7" stamp="1359349084263" version="1.0"/>
+</session>
